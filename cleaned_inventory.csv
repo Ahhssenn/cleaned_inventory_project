@@ -1,0 +1,7 @@
+product_id,product_name,price,total_stock,stock_value
+P001,Phone,299.99,25,7499.75
+P002,Tablet,149.99,20,2999.8
+P003,Laptop,157.892,30,4736.76
+P004,Monitor,199.5,25,4987.5
+P005,Mouse,49.99,10,499.90000000000003
+P006,Keyboard,89.99,5,449.95
